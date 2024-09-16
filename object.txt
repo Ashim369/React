@@ -1,0 +1,10 @@
+CRUD (Object)
+
+let obj={           //create an object 
+    name :"Ashim"
+    age:22
+}
+obj.name;           //Read object 
+obj.name:"Hello"    //Update the value of an name through object 
+delete obj.age;     //delete an object 
+delete obj.name;

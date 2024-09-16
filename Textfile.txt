@@ -1,0 +1,18 @@
+syntax for foreach
+
+            arr=[]
+            arr.foreach((items)=>{
+    
+            })
+
+syntax for map   naya array create garxa existing arrayma change garera
+        arr=[]
+        new arr= arr.map((item)=>{
+                return item
+        })
+
+syntax for filter
+        arr= []
+        newarr= arr.filter((item)=>{
+            return item (condition)
+        })
